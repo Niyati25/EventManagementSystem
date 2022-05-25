@@ -3,6 +3,6 @@ S.Y.B.C.A Sem-IV Mini-Project
 
 Members
 1. Durga
-2. Jerico
-3. Natasha
-4. Niyati
+2. Natasha
+3. Niyati
+4. Jericho
